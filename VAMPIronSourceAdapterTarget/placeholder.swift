@@ -1,0 +1,3 @@
+//
+//  VAMP-IronSource-iOS-Adapter
+//
