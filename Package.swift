@@ -34,13 +34,13 @@ let package = Package(
         ),
         .binaryTarget(
             name: "VAMPIronSourceAdapter",
-            url: "https://d2dylwb3shzel1.cloudfront.net/iOS/VAMPIronSourceAdapter-v8.9.1.zip",
-            checksum: "f7f8b0197dbae17e2e553bd90dab33c924a8e8868f5c1b6d1776e9bbfea53a00"
+            url: "https://d2dylwb3shzel1.cloudfront.net/iOS/VAMPIronSourceAdapter-v8.11.0.zip",
+            checksum: "2b5295387a9ad98d5cc19bd5be5379773ed5ea75680ed4a93e54c5ff911dc75b"
         ),
         .binaryTarget(
             name: "IronSourceSDK",
-            url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-sdk/master/8.9.1/IronSource8.9.1.zip",
-            checksum: "7ce31a68b35e112b22f88a7741c5b7b5da3a7d9f5e4e4e8a03850a5fe2572bbe"
+            url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-sdk/master/8.11.0/IronSource8.11.0.zip",
+            checksum: "d37214e549807530aefb740c2330b611332090eb2f5faf4c107338bddb72b00d"
         )
     ]
 )
